@@ -31,7 +31,7 @@ const ContactForm = () => {
             <div className="col-md-6">
                <div className="contact-form__location location">
                   <div className="location__heading">
-                     <h4>Location Map</h4>
+                     <h4>Xəritə</h4>
                   </div>
                   <div className="location__map">
                   <iframe
@@ -48,23 +48,23 @@ const ContactForm = () => {
             <div className="col-md-6">
                <div className="contact-form__message message">
                   <div className="message__heading">
-                     <h4>Contact Us</h4>
+                     <h4>Əlaqə</h4>
                   </div>
                   <div className="message__body">
                      <form ref={form} onSubmit={sendEmail}>
                      <div className="row">
                         <div className="col-md-6">
-                           <input name='name' type="text" placeholder='Full Name' />
+                           <input name='name' type="text" placeholder='Ad,Soyad' />
                         </div>
                         <div className="col-md-6">
-                           <input name='email' type="email" placeholder='E-mail Address'/>
+                           <input name='email' type="email" placeholder='E-mail Ünvan'/>
                         </div>
                         <div className="col-md-12">
-                           <textarea name="message" id="" cols="30" rows="10" placeholder='Write message'></textarea>
+                           <textarea name="message" id="" cols="30" rows="10" placeholder='Mesaj Yaz'></textarea>
                         </div>
                      </div>
                      <div className="message__btn">
-                        <input type="submit" value='SUBMIT MESSAGE' />
+                        <input type="submit" value='Mesaj Göndər' />
                      </div>
                      </form>
                      

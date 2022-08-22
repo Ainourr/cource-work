@@ -16,10 +16,10 @@ const CoursesGridItems = ({key,name,image,price,imgTeacher,text}) => {
             <div className="base"></div>
          </div>
          <a href=""><h3>{text}</h3></a>
-         <p>Ugh chambray lumbersexual food truc artisan meditation sartorial post-ironic Wes Anderson.</p>
+         <p>İT Brains Academy</p>
          <div className="courses-grid__btn">
             <a href="">
-               view more <FontAwesomeIcon icon={faArrowRight} size="x"/>
+               Daha çox<FontAwesomeIcon icon={faArrowRight} size="x"/>
             </a>
          </div>
       </div>

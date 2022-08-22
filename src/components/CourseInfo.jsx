@@ -4,14 +4,14 @@ const CourseInfo = () => {
   return (
     <div className="single-course__info info">
       <div className="info__heading">
-         <h4>Course Information</h4>
+         <h4>Kurs haqda məlumat</h4>
       </div>
       <ul>
-         <li><span>Starts:</span>14 November 2015</li>
-         <li><span>Duration:</span>1 Month / 4 Weeks</li>
-         <li><span>Study Level:</span>Post Graduate</li>
-         <li><span>Disipline</span>Account and Finance</li>
-         <li><span>Price:</span>$45 / month</li>
+         <li><span>Başlanğıclar:</span>14 Noyabr 2015</li>
+         <li><span>Müddət:</span>1 ay / 4 həftə</li>
+         <li><span>Öyrənmə dərəcəsi:</span>Məzun</li>
+         <li><span>Disiplin</span>Maliyyə və Mühasibatlıq</li>
+         <li><span>Qiymət:</span>45AZN/ Aylıq</li>
       </ul>
     </div>
   )

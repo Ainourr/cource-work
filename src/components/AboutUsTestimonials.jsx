@@ -23,15 +23,15 @@ const AboutUsTestimonials = () => {
             <Slider {...settings}>
             <div className="test__item">
                   <img src={Img1} alt="" />
-                  <h3>John L. Smith</h3>
-                  <span>Ceo Founder</span>
-                  <p>Stumptown polaroid skateboard single-origin coffee. Farm-to-table Vice authentic Truffaut put a bird on it, pug ethical tousled photo booth gluten-free cliche bicycle rights four dollar toast single-origin coffee taxidermy.</p>
+                  <h3>Etibar Məmmədov</h3>
+                  <span>Direktor</span>
+                  <p>Software Engineer. 10 il iş təcrübəsi vardır.</p>
                </div>
                <div className="test__item">
                   <img src={Img2} alt="" />
-                  <h3>Caroll m. davis</h3>
-                  <span>Web Designer</span>
-                  <p>Stumptown polaroid skateboard single-origin coffee. Farm-to-table Vice authentic Truffaut put a bird on it, pug ethical tousled photo booth gluten-free cliche bicycle rights four dollar toast single-origin coffee taxidermy.</p>
+                  <h3>Məlahət Səlimova</h3>
+                  <span>Müəllim</span>
+                  <p>Web Deisgner.6 ildir ki bu sahədədir.</p>
                </div>
             </Slider>
                

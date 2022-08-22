@@ -1,74 +1,74 @@
 export const menuItems = [
    {
-     title: "Home",
+     title: "Ana Səhifə",
      path: '/'
    },
    {
-     title: "Courses",
+     title: "Kurslar",
      submenu: [
        {
-         title: "Courses grids",
+         title: "Kurs şəbəkəsi",
          path: '/courses-grids'
        },
    
        {
-         title: "Courses list",
+         title: "Kurs list",
          path: '/courses-list'
        },
        {
-         title: "Single course",
+         title: "Kurslar",
          path: '/single-course'
        }
      ],
    },
    {
-     title: "Events",
+     title: "Hadisələr",
      submenu: [
        {
-         title: "Classic events",
+         title: "Hadisə",
          path: '/classic-events'
        },
        {
-         title: "Single event",
+         title: "Sadə Hadisələr",
          path: '/single-event'
        }
      ],
    },
  
    {
-     title: "Pages",
+     title: "Səhifələr",
      submenu: [
        {
-         title: "About us",
+         title: "Haqqımızda",
          path: '/about-us'
        },
        {
-         title: "Our teachers",
+         title: "Müəllimlərimiz",
          path: '/our-teachers'
        },
        {
-         title: "Single teacher",
+         title: "Müəllimlər",
          path: '/single-teacher'
        }
      ],
    },
  
    {
-     title: "News",
+     title: "Yeniliklər",
      submenu: [
        {
-         title: "Classic news",
+         title: "Sadə xəbərlər",
          path: '/classic-news'
        },
        {
-         title: "Single post",
+         title: "Göndərilər",
          path: '/single-post'
        },
        
      ],
    },
    {
-     title:'Contact',
+     title:'Əlaqə',
      path: '/contact'
    }
  ];

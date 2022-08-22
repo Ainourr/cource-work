@@ -9,8 +9,8 @@ const SingleTeacherDesc = () => {
     <div className="col-md-7">
       <div className="single-teacher__desc">
          <div className="single-teacher__header">
-            <h3>Rebecca Larson</h3>
-            <span>Math Teacher</span>
+            <h3>Ayla Mamedova</h3>
+            <span>İnformatika müəllimi</span>
             <img src={Line} />
          </div>
          <div className="single-teacher__icons">
@@ -22,13 +22,13 @@ const SingleTeacherDesc = () => {
             </ul>
          </div>
          <div className="single-teacher__text">
-            <p>Vinyl keffiyeh gluten-free, health goth stumptown chambray typewriter ugh. McSweeney gastropub cardigan, banjo Thundercats bitters health goth tofu freegan. Pop-up Pinter 90's farm-to-table locavore seitan McSweeney's.</p>
-            <h4>Biography</h4>
-            <p><em>Food truck four loko swag, try-hard Williamsburg you probably haven heard of them pork belly bitters.</em><br /><br />Vinyl keffiyeh gluten-free, health goth stumptown chambray typewriter ugh. McSweeney gastropub cardigan, banjo Thundercats bitters health goth tofu freegan. Pop-up Pinter 90's farm-to-table locavore seitan McSweeney's <br /><br />Thundercats Shoreditch polaroid biodiesel put a bird on it. McSweeney's stumptown blog vinyl, pop-up crucifix Tumblr messenger bag hella fap disrupt meh. Cred butcher gluten-free twee Pinterest tofu banh mi, mustache typewriter chia.</p>
+            
+            <h4>MC office teacher</h4>
+            <p>İT Brains Academy</p>
             <ul>
                <li><FontAwesomeIcon className='single-teacher__contact' icon={faPhone} size="x"/>910-213-7890</li>
-               <li><FontAwesomeIcon className='single-teacher__contact' icon={faEnvelope} size="x"/>samuel@delossantos.com</li>
-               <li><FontAwesomeIcon className='single-teacher__contact' icon={faSkype} size="x"/>samueldelossantos1</li>
+               <li><FontAwesomeIcon className='single-teacher__contact' icon={faEnvelope} size="x"/>Aylam@gmail.com</li>
+               <li><FontAwesomeIcon className='single-teacher__contact' icon={faSkype} size="x"/>Ayla Mamedova</li>
             </ul>
          </div>
       </div>

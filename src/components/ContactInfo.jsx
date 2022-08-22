@@ -11,18 +11,18 @@ const ContactInfo = () => {
                <div className="contact-info__items">
                   <div className="contact-info__item">
                      <FontAwesomeIcon className='contact__info__icon' icon={faMapMarker} size="x"/>
-                     <h4>Address Info</h4>
-                     <p>Bloomfield Way Stockton, Springs ME 04981</p>
+                     <h4>Ünvan</h4>
+                     <p>Bakı,28 may,Af Business Center</p>
                   </div>
                   <div className="contact-info__item">
                      <FontAwesomeIcon className='contact__info__icon' icon={faEnvelope} size="x"/>
-                     <h4>Email Info</h4>
-                     <p>educa@university.com</p>
+                     <h4>Email Adres</h4>
+                     <p>İtbrainsacademy@gmail.com</p>
                   </div>
                   <div className="contact-info__item _border">
                      <FontAwesomeIcon className='contact__info__icon' icon={faPhone} size="x"/>
-                     <h4>Phone Number</h4>
-                     <p>+1 (23) 207 0567 2120</p>
+                     <h4>Telefon</h4>
+                     <p>+994 (50) 766 20 00</p>
                   </div>
                </div>
             </div>

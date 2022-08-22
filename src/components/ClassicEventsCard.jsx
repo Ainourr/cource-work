@@ -17,19 +17,19 @@ const ClassicEventsCard = ({key,image,adress,date,title}) => {
                   <li><a href="#"><FontAwesomeIcon icon={faStar} size="x"/></a></li>
                   <li><a href="#"><FontAwesomeIcon icon={faStar} size="x"/></a></li>
                   <li><a href="#"><FontAwesomeIcon icon={faStar} size="x"/></a></li>
-                  <li>5 stars</li>
+                  <li>5 ulduz</li>
                   <li> <a href="#"><FontAwesomeIcon icon={faThumbsUp} size="x"/></a>68</li>
                </ul>
             </div>
          </div>
          <div className="classic-events__down">
             <ul>
-            <li><FontAwesomeIcon className='classic-events__icon' icon={faMapMarker} size="x"/>Johnny Lane <br /> Milwaukee WI 532</li>
-            <li><FontAwesomeIcon className='classic-events__icon' icon={faClock} size="x"/>Nov 4 - Dec 11 <br />  Monday 8am - 12am</li>
+            <li><FontAwesomeIcon className='classic-events__icon' icon={faMapMarker} size="x"/>Ayan Babayeva <br /> İT Brains 32</li>
+            <li><FontAwesomeIcon className='classic-events__icon' icon={faClock} size="x"/>Noy 4 - Dek 11 <br />Şənbə 08.00 - 12.00</li>
             </ul>
-            <div className="classic-events__date"><p>18 <span>Dec</span></p></div>
+            <div className="classic-events__date"><p>18 <span>Dek</span></p></div>
             <a href="#"><h4>{title}</h4></a>
-            <p>Ugh chambray lumbersexual food truc artisan meditation sartorial post-ironic Wes Anderson fap tattooed.</p>
+            <p>Özünüzü İT Brains Academy`də inkişaf etdirin.</p>
          </div>
       </div>
     </div>

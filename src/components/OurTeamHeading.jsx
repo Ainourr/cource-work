@@ -15,14 +15,14 @@ const OurTeamHeading = () => {
      <div className='about-us__container _container'>
        <div className='row'>
          <div className='col-md-12'>
-           <h1 className='about-us__title'>Our Teachers</h1>
-           <span className='about-us__text'>Salvia next level crucifix pickled heirloom synth</span>
+           <h1 className='about-us__title'>Müəllimlərimiz</h1>
+           <span className='about-us__text'>Müəllimlərimizi görmək üçün səhifmizə nəzər yetirə bilərsiniz.</span>
              <ul className='about-us__col'>
-               <li className='about-us__item'><a className='about-us__link _orange' href='#'>Home</a></li>
+               <li className='about-us__item'><a className='about-us__link _orange' href='#'>Ev</a></li>
                <li className='about-us__item'><FontAwesomeIcon className='about-us__icon' icon={faAngleRight} size="xs"/></li>
-               <li className='about-us__item'><a className='about-us__link' href='#'>Pages</a></li>
+               <li className='about-us__item'><a className='about-us__link' href='#'>Səhifələr</a></li>
                <li className='about-us__item'><FontAwesomeIcon className='about-us__icon' icon={faAngleRight} size="xs"/></li>
-               <li className='about-us__item'><a className='about-us__link' href='#'>Our Team</a></li>
+               <li className='about-us__item'><a className='about-us__link' href='#'>Komandamız</a></li>
              </ul>
          </div>
        </div>

@@ -7,26 +7,26 @@ const CoursesRelated = () => {
   return (
     <div className="single-course__related related">
       <div className="related__heading">
-         <h4>Related Courses</h4>
+         <h4>Əlaqəli Kurslar</h4>
       </div>
       <ul>
          <li>
             <a href='#'><img src={Image1} alt="" /></a>
-            <span>John Smith</span>
-            <a href="#"><h5>History of Art Architecture</h5></a>
-            <p>Price:<em>$39.99</em></p>
+            <span>Cəlil Əliyev</span>
+            <a href="#"><h5>Tarixi Memarlıq</h5></a>
+            <p>Qiymət:<em>39.99AZN</em></p>
          </li>
          <li>
             <a href='#'><img src={Image2} alt="" /></a>
-            <span>Sam Clarkson</span>
-            <a href="#"><h5>Fashion Buying Managment</h5></a>
-            <p>Price:<em>$29.99</em></p>
+            <span>Samir Bayramov</span>
+            <a href="#"><h5>Managment</h5></a>
+            <p>Qiymət:<em>29.99AZN</em></p>
          </li>
          <li>
          <a href='#'><img src={Image3} alt="" /></a>
-            <span>Anna Dobson</span>
+            <span>Fatimə Məmmədova</span>
             <a href="#"><h5>Electronic Engineering</h5></a>
-            <p>Price:<em>$89.99</em></p>
+            <p>Qiymət:<em>89.99AZN</em></p>
          </li>
       </ul>
     </div>

@@ -10,58 +10,59 @@ const Footer = () => {
       <div className="footer__container _container">
          <div className="row">
             <div className="col-md-3">
-               <div className="footer__header">
+               <div className="logo footer__header">
                   <img src={Logo} alt="" />
                   <div className="footer__line"></div>
-                  <p>Viral megings photo booth farm tab McSweeney's Thundercats til typewrite PBR food truck Kickstarter mumb ennui Tumblr. Jean shorts hoodiele.</p>
-                  <div className="footer__text-btn"><a href="">Read More <FontAwesomeIcon icon={faArrowRight} size="x"  className="ftext__btn"/></a></div>
+                  <p>LOGO altindaki soz.</p>
+                  <div className="footer__text-btn"><a href="">Daha çox <FontAwesomeIcon icon={faArrowRight} size="x"  className="ftext__btn"/></a></div>
                </div>
             </div>
             <div className="col-md-3">
                <div className="footer__header">
-                  <h3>Featered Links</h3>
+                  <h3>Seçilmiş Linklər</h3>
                   <div className="footer__line"></div>
                   <ul>
-                     <li><a href="#">Graduation</a></li>
-                     <li><a href="#">Admissions</a></li>
-                     <li><a href="#">International</a></li>
-                     <li><a href="#">FAQs</a></li>
+                     
+                     <li><a href="#">Məzuniyyət</a></li>
+                     <li><a href="#">Giriş</a></li>
+                     <li><a href="#">Beynəlxalq</a></li>
+                   
                   </ul>
                   <ul className='footer__list'>
-                     <li><a href="#">Courses</a></li>
-                     <li><a href="#">About Us</a></li>
-                     <li><a href="#">Bookstore</a></li>
-                     <li><a href="#">Alumni</a></li>
+                 
+                     <li><a href="#">Kurslar</a></li>
+                     <li><a href="#">Haqqımızda</a></li>
+                     <li><a href="#">Tez-tez verilən suallar</a></li>
                   </ul>
                </div>
             </div>
             <div className="col-md-3">
                <div className="footer__header">
-                  <h3>University Address</h3>
+                  <h3>Akademiya Adresi</h3>
                   <div className="footer__line"></div>
                   <ul className="footer__address">
                         <li>
                            <FontAwesomeIcon icon={faHome} className="footer__icon" size="x"/>
-                           1107 Wood Street Saginaw, MI New York 48607
+                          Nizami 203B,Af Business House,2-ci mərtəbə Baku,1131
                         </li>
                         <li>
                            <FontAwesomeIcon icon={faPhone} className="footer__icon" size="x"/>
-                           +12 (34) 214 280 2000</li>
+                           +994 (77) 721 05 01</li>
                         <li>
                          <FontAwesomeIcon icon={faEnvelope} className="footer__icon" size="x"/>
-                           support@educa.com
+                           aynurmahmudova05@gmail.com
                         </li>
                      </ul>
                </div>
             </div>
             <div className="col-md-3">
                <div className="footer__header">
-                  <h3>Newsletters</h3>
+                  <h3>Yeni məktublar</h3>
                   <div className="footer__line"></div>
-                  <p>Subsrcibe to our newsletter for latest updates about our site for universe.</p>
+                  <p>Saytımız haqqında ən son yeniləmələr üçün abunə olun.</p>
                   <input type="email" className='email' placeholder='Email Address...' />
                   <div className="footer__email-btn">
-                     <a href="#">Subscribe</a>
+                     <a href="#">Abonə ol.</a>
                   </div>
                </div>
             </div>
@@ -72,29 +73,29 @@ const Footer = () => {
                   <div className="row">
                      <div className="col-md-6">
                         <div className="copyright__text">
-                           <p>@ Copyright 2022 Educa. All Rights Reserved</p>
+                           <p>@ Copyright 2022 İT Brains Academy. Müəllif haqları qorunur.</p>
                         </div>
                      </div>
                      <div className="col-md-6">
                         <div className="copyright__menu">
                            <ul>
                               <li>
-                                 <a href="#">Home</a>
+                                 <a href="#">Əsas</a>
                               </li>
                               <li>
-                                 <a href="#">Courses</a>
+                                 <a href="#">Kurslar</a>
                               </li>
                               <li>
-                                 <a href="#">Future Students</a>
+                                 <a href="#">Gələcək Tələbələr</a>
                               </li>
                               <li>
-                                 <a href="#">News</a>
+                                 <a href="#">Yeniliklər</a>
                               </li>
                               <li>
-                                 <a href="#">Pages</a>
+                                 <a href="#">Səhifələr</a>
                               </li>
                               <li>
-                                 <a href="#">Contact</a>
+                                 <a href="#">Kontakt</a>
                               </li>
                            </ul>
                         </div>

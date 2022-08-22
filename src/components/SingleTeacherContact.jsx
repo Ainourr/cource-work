@@ -6,12 +6,12 @@ const SingleTeacherContact = () => {
     <div className="col-md-5">
       <img src={Img} alt="" />
       <div className="single-teacher__form">
-         <h4>Contact Me</h4>
+         <h4>Əlaqə</h4>
          <input type="text" placeholder='Full Name' />
          <input type="email" placeholder='E-mail Address' />
          <textarea name="" placeholder='Write message' cols="30" rows="10"></textarea>
          <div className="single-teacher__btn">
-            <a href="#">Send Message</a>
+            <a href="#">Mesaj göndər</a>
          </div>
       </div>
     </div>

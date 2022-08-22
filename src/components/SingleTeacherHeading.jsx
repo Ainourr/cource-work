@@ -15,14 +15,14 @@ const SingleTeacherHeading = () => {
      <div className='about-us__container _container'>
        <div className='row'>
          <div className='col-md-12'>
-           <h1 className='about-us__title'>Single Teacher</h1>
-           <span className='about-us__text'>Salvia next level crucifix pickled heirloom synth</span>
+           <h1 className='about-us__title'>Müəllim</h1>
+           <span className='about-us__text'>Müəllimlərimiz</span>
              <ul className='about-us__col'>
-               <li className='about-us__item'><a className='about-us__link _orange' href='#'>Home</a></li>
+               <li className='about-us__item'><a className='about-us__link _orange' href='#'>Əsas</a></li>
                <li className='about-us__item'><FontAwesomeIcon className='about-us__icon' icon={faAngleRight} size="xs"/></li>
-               <li className='about-us__item'><a className='about-us__link' href='#'>Pages</a></li>
+               <li className='about-us__item'><a className='about-us__link' href='#'>Səhifələr</a></li>
                <li className='about-us__item'><FontAwesomeIcon className='about-us__icon' icon={faAngleRight} size="xs"/></li>
-               <li className='about-us__item'><a className='about-us__link' href='#'>Teacher</a></li>
+               <li className='about-us__item'><a className='about-us__link' href='#'>Müəllim</a></li>
              </ul>
          </div>
        </div>

@@ -15,12 +15,12 @@ const SinglePostHeading = () => {
      <div className='courses-grids__container _container'>
        <div className='row'>
          <div className='col-md-12'>
-           <h1 className='courses-grids__title'>News</h1>
-           <span className='courses-grids__text'>Salvia next level crucifix pickled heirloom synth</span>
+           <h1 className='courses-grids__title'>Yeniliklər</h1>
+           <span className='courses-grids__text'>Yeniliklərimizlə bu səhifədən maraqlana bilərsiniz.</span>
              <ul className='single-post__col'>
-               <li className='courses-grids__item'><a className='courses-grids__link _orange' href='#'>Home</a></li>
+               <li className='courses-grids__item'><a className='courses-grids__link _orange' href='#'>Əsas</a></li>
                <li className='courses-grids__item'><FontAwesomeIcon className='courses-grids__icon' icon={faAngleRight} size="xs"/></li>
-               <li className='courses-grids__item '><a className='courses-grids__link' href='#'>Single Post</a></li>
+               <li className='courses-grids__item '><a className='courses-grids__link' href='#'>Göndərilər</a></li>
              </ul>
          </div>
        </div>

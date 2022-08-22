@@ -17,77 +17,76 @@ const ClassicNewsSideBar = () => {
     <div className="col-md-4">
       <div className="classic-news__sidebar">
          <div className="classic-news__search">
-            <input className='search-icon' type="text" placeholder='Search' />
+            <input className='search-icon' type="text" placeholder='Axtarış' />
          </div>
          <div className="classic-news__categories categories">
             <div className="categories__heading">
-               <h4>Categories</h4>
+               <h4>Kateqoriyalar</h4>
             </div>
             <ul>
-               <li><a href='#'><FontAwesomeIcon className='classic-news__icon' icon={faAngleRight} size="xs"/>Design</a></li>
-               <li><a href='#'><FontAwesomeIcon className='classic-news__icon' icon={faAngleRight} size="xs"/>International</a></li>
-               <li><a href='#'><FontAwesomeIcon className='classic-news__icon' icon={faAngleRight} size="xs"/>Learning</a></li>
-               <li><a href='#'><FontAwesomeIcon className='classic-news__icon' icon={faAngleRight} size="xs"/>Read</a></li>
-               <li><a href='#'><FontAwesomeIcon className='classic-news__icon' icon={faAngleRight} size="xs"/>Education</a></li>
-               <li><a href='#'><FontAwesomeIcon className='classic-news__icon' icon={faAngleRight} size="xs"/>Finance</a></li>
+               <li><a href='#'><FontAwesomeIcon className='classic-news__icon' icon={faAngleRight} size="xs"/>Dizayn</a></li>
+               <li><a href='#'><FontAwesomeIcon className='classic-news__icon' icon={faAngleRight} size="xs"/>Beynəlxalq</a></li>
+               <li><a href='#'><FontAwesomeIcon className='classic-news__icon' icon={faAngleRight} size="xs"/>Öyrənmək</a></li>
+               <li><a href='#'><FontAwesomeIcon className='classic-news__icon' icon={faAngleRight} size="xs"/>Oxumaq</a></li>
+               <li><a href='#'><FontAwesomeIcon className='classic-news__icon' icon={faAngleRight} size="xs"/>Təhsil</a></li>
+               <li><a href='#'><FontAwesomeIcon className='classic-news__icon' icon={faAngleRight} size="xs"/>Maliyyə</a></li>
             </ul>
          </div>
          <div className="classic-news__recent recent">
             <div className="recent__heading">
-               <h4>Recent News</h4>
+               <h4>Son Yeniliklər</h4>
             </div>
             <ul>
                <li>
                   <a href='#'><img src={Rec1} alt="" /></a>
-                  <a href='#'><h5>Visiting Artists: Giles Bailey</h5></a>
-                  <span>7 June 2022</span>
+                  <a href='#'><h5>Sponsor: Azərbaycan Dövlət Təhsil Nazirliyi</h5></a>
+                  <span>7 İyun 2022</span>
                </li>
                <li>
                   <a href='#'><img src={Rec2} alt="" /></a>
-                  <a href='#'><h5>How Students use Rankings?</h5></a>
-                  <span>12 June 2022</span>
+                  <a href='#'><h5>Ən son keçirilən məzun günü</h5></a>
+                  <span>12 İyun 2022</span>
                </li>
                <li>
                   <a href='#'><img src={Rec3} alt="" /></a>
-                  <a href='#'><h5>University Finder: Compare</h5></a>
-                  <span>18 June 2022</span>
+                  <a href='#'><h5>Universitetlə əlaqələr-BEU</h5></a>
+                  <span>18 İyun 2022</span>
                </li>
             </ul>
          </div>
          <div className="classic-news__tag tag">
            <div className="tag__heading">
-            <h4>Tags</h4>
+            <h4>Təqlər</h4>
            </div>
            <ul>
-            <li><a href="#">Photography</a></li>
-            <li><a href="#">Design</a></li>
-            <li><a href="#">Envanto</a></li>
-            <li><a href="#">Course</a></li>
-            <li><a href="#">Education</a></li>
-            <li><a href="#">College</a></li>
-            <li><a href="#">Teachers</a></li>
-            <li><a href="#">Read</a></li>
-            <li><a href="#">Excursions</a></li>
-            <li><a href="#">Lessons</a></li>
+            <li><a href="#">Fotoqraf</a></li>
+            <li><a href="#">Dizayner</a></li>
+            <li><a href="#">Kurs</a></li>
+            <li><a href="#">Təhsil</a></li>
+            <li><a href="#">Kollec</a></li>
+            <li><a href="#">Müəllimlər</a></li>
+            <li><a href="#">Oxucu</a></li>
+            <li><a href="#">Ekskursiya</a></li>
+            <li><a href="#">Dərslər</a></li>
             <li><a href="#">Web Development</a></li>
            </ul>
          </div>
          <div className="classic-news__tweets tweets">
             <div className="tweets__heading">
-               <h4>Recents Tweets</h4>
+               <h4>Hal-hazırda</h4>
             </div>
             <ul>
                <li>
                   <FontAwesomeIcon className='tweets__icon' icon={faTwitter} size="x"/>
-                  <p>Tote bag post-ironic messenger bag bespoke cray wolf moon key ready.</p>
+                  <p>İT sahəsində yeni biliklər əldə edə və biliklərinizi artıra bilərsiniz.</p>
                   <a href="#">https://olark.recruiterbox.com/jobs/fk0h</a>
-                  <span>21 minutes ago.</span>
+                  <span>21 dəq. əvvəl </span>
                </li>
                <li>
                   <FontAwesomeIcon className='tweets__icon' icon={faTwitter} size="x"/>
-                  <p>Tote bag post-ironic messenger bag bespoke cray wolf moon key ready.</p>
+                  <p>İT sahəsində yeni biliklər əldə edə və biliklərinizi artıra bilərsiniz.</p>
                   <a href="#">https://olark.recruiterbox.com/jobs/fk0h</a>
-                  <span>21 minutes ago.</span>
+                  <span>21 dəq. əvvəl</span>
                </li>
             </ul>
          </div>

@@ -13,9 +13,9 @@ const AboutUsSkills = () => {
             <div className="skills__body">
               <div className="skills__item">
                 <div className="skills__content">
-                  <CountUp className='count__up' delay={4} end={1256} duration={5}/>
+                  <CountUp className='count__up' delay={4} end={8632} duration={5}/>
                   <img src={Line} />
-                  <span>Great Costumer</span>
+                  <span> Müştərilər</span>
                   <div className="skills__hover">
                   <FontAwesomeIcon className='skills__icon' icon={faUser} size="xl"/>
                   </div>
@@ -25,7 +25,7 @@ const AboutUsSkills = () => {
                 <div className="skills__content">
                   <CountUp className='count__up' delay={4} end={5000} duration={5}/>
                   <img src={Line} />
-                  <span>Happy Clients</span>
+                  <span>Xoşbəxt müştərilər</span>
                   <div className="skills__hover">
                   <FontAwesomeIcon className='skills__icon' icon={faThumbsUp} size="xl"/>
                   </div>
@@ -35,7 +35,7 @@ const AboutUsSkills = () => {
                 <div className="skills__content">
                   <CountUp className='count__up' delay={4} end={6789} duration={5}/>
                   <img src={Line} />
-                  <span>Completed Projects</span>
+                  <span>Tamamlanmış layihələr</span>
                   <div className="skills__hover">
                   <FontAwesomeIcon className='skills__icon' icon={faBriefcase} size="xl"/>
                   </div>
@@ -45,7 +45,7 @@ const AboutUsSkills = () => {
                 <div className="skills__content">
                   <CountUp className='count__up' delay={4} end={4892} duration={5}/>
                   <img src={Line} />
-                  <span>Year Of Experience</span>
+                  <span>1 ilin təcrübəsi</span>
                   <div className="skills__hover">
                   <FontAwesomeIcon className='skills__icon' icon={faAreaChart} size="xl"/>
                   </div>
@@ -56,9 +56,9 @@ const AboutUsSkills = () => {
         </div>
         <div className="row">
           <div className="skills__heading">
-            <h2>Our Skills</h2>
+            <h2>Fəaliyyətlərimiz</h2>
             <img src={Line} alt="" />
-            <p>Twee Vice synth stumptown distillery aesthetic slow carb</p>
+            <p>Aşağıda biliklərimizin dərəcə faizini görmək mümkündür.</p>
           </div>
         </div>
         <div className="row">

@@ -13,9 +13,9 @@ const Teachers = () => {
       <div className="teachers__container _container">
          <div className="row">
          <div className="teachers__header">
-            <h3>Our Teachers</h3>
+            <h3>Müəllimlərimiz</h3>
             <img src={Line} alt="" />
-            <p>High Life squid literally scenester fap Helvetica quinoa church-key</p>
+            <p>İT Brains Academy</p>
          </div>
          </div>
          <div className="row">
@@ -36,10 +36,10 @@ const Teachers = () => {
                   </div>
                   <div className="teachers__down">
                      <a href="">
-                        <h3>Nick Smith</h3>
+                        <h3>Nazim Cəfərov</h3>
                      </a>
-                     <span>Physic Teacher</span>
-                     <p>Ugh chambray lumbersexual food  artisan meditation sartorial well post-ironic wes</p>
+                     <span>Fizika Müəllimi</span>
+                     <p>İT Brains Academy</p>
                   </div>
                </div>
             </div>
@@ -60,10 +60,10 @@ const Teachers = () => {
                   </div>
                   <div className="teachers__down">
                      <a href="">
-                        <h3>Nick Smith</h3>
+                        <h3>Nazim Cəfərov</h3>
                      </a>
-                     <span>Physic Teacher</span>
-                     <p>Ugh chambray lumbersexual food  artisan meditation sartorial well post-ironic wes</p>
+                     <span>Fizika Müəllimi</span>
+                     <p>İT Brains Academy</p>
                   </div>
                </div>
             </div>
@@ -84,10 +84,10 @@ const Teachers = () => {
                   </div>
                   <div className="teachers__down">
                      <a href="">
-                        <h3>Nick Smith</h3>
+                        <h3>Nazim Cəfərov</h3>
                      </a>
-                     <span>Physic Teacher</span>
-                     <p>Ugh chambray lumbersexual food  artisan meditation sartorial well post-ironic wes</p>
+                     <span>Fizika </span>
+                     <p>İT Brains Academy</p>
                   </div>
                </div>
             </div>
@@ -108,10 +108,10 @@ const Teachers = () => {
                   </div>
                   <div className="teachers__down">
                      <a href="">
-                        <h3>Nick Smith</h3>
+                        <h3>Nazim Cəfərov</h3>
                      </a>
-                     <span>Physic Teacher</span>
-                     <p>Ugh chambray lumbersexual food  artisan meditation sartorial well post-ironic wes</p>
+                     <span>Fizika</span>
+                     <p>İT Brains Academy</p>
                   </div>
                </div>
             </div>

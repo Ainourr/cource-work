@@ -42,7 +42,7 @@ const Navbar = () => {
    return (
       <header className='header'>
          <div className="header__container _container">
-           <div className="header__logo">
+           <div className="header__logo img">
            <Link onClick={closeMobileMenu} to="/"><img src={Logo} alt="Educa" /></Link>
            </div> 
            
@@ -56,22 +56,22 @@ const Navbar = () => {
                   <ul className="info__list">
                      <li className="info__item">
                         <span className="info__icon"><FontAwesomeIcon icon={faPhone} size="2xs"/></span>
-                        <span className="info__text">+49 233 322 333</span>
+                        <span className="info__text">+994 50 766 20 00</span>
                      </li>
                      <li className="info__item">
                         <span className="info__icon"><FontAwesomeIcon icon={faEnvelope} size="2xs"/></span>
-                        <span className="info__text">your@website.com</span>
+                        <span className="info__text">İtbrainsacademy@gmail.com</span>
                      </li>
                      <li className="info__item">
                         <span className="info__icon"><FontAwesomeIcon icon={faEarthAmericas} size="2xs"/></span>
                         <select name="English">
-                           <option value="-1">English</option>
-                           <option value="">French</option>
-                           <option value="">Russian</option>
+                           <option value="-1">İngilis</option>
+                           <option value="">Fransa</option>
+                           <option value="">Rusiya</option>
                         </select>
                      </li>
                      
-                     <a href="#" className="info__btn">Apply Now</a>
+                     <a href="#" className="info__btn">İndi müraciət et</a>
                      
                   </ul>
                </div>
@@ -88,7 +88,7 @@ const Navbar = () => {
                      <div class="overlay-content">
                         <form>
                            <input type="text" placeholder="Type keyword(s) here..." name="search"/>
-                           <button type="button" className='search-btn'>Search</button>
+                           <button type="button" className='search-btn'>Axtarış</button>
                         </form>
                      </div>
                      </div></a>

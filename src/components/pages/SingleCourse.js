@@ -23,12 +23,12 @@ const SingleCourse = () => {
                 <div className='col-md-12'>
                   <div className='single-course__item'>
                     <div className='single-course__heading'>
-                      <h3>How to become a Powerful Speaker ?</h3>
-                      <p>Plaid you probably haven't heard of them fashion axe meditation</p>
+                      <h3>Necə Mükəmməl Natiq Olmaq Olar?</h3>
+                      <p>Əlbəttə İT Brains Academy kurslarına qoşularaq.</p>
                       <img src={Img} />
-                      <h4>Allan Johnson</h4>
+                      <h4>Əli Heydərov</h4>
                       <div className='single-course__price'>
-                        <span>$25.99</span>
+                        <span>25.99AZN</span>
                         <div className='base'></div>
                       </div>
                     </div>

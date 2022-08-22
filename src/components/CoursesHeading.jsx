@@ -16,12 +16,12 @@ const CoursesHeading = () => {
      <div className='courses-grids__container _container'>
        <div className='row'>
          <div className='col-md-12'>
-           <h1 className='courses-grids__title'>All Courses</h1>
-           <span className='courses-grids__text'>Salvia next level crucifix pickled heirloom synth</span>
+           <h1 className='courses-grids__title'>Bütün kurslar</h1>
+           <span className='courses-grids__text'>Fəaliyyətlərimizi buradan izləmək mümkündür.</span>
              <ul className='courses-grids__col'>
-               <li className='courses-grids__item'><a className='courses-grids__link _orange' href='#'>Home</a></li>
+               <li className='courses-grids__item'><a className='courses-grids__link _orange' href='#'>Əsas</a></li>
                <li className='courses-grids__item'><FontAwesomeIcon className='courses-grids__icon' icon={faAngleRight} size="xs"/></li>
-               <li className='courses-grids__item'><a className='courses-grids__link' href='#'>Courses Categories</a></li>
+               <li className='courses-grids__item'><a className='courses-grids__link' href='#'>Kursun kateqoriyaları</a></li>
              </ul>
          </div>
        </div>

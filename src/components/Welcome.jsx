@@ -12,43 +12,43 @@ const Welcome = () => {
          <div className="row">
             <div className="col-md-8">
                <div className="welcome__heading">
-                  <h1 className='welcome__title'>Welcome to Educa</h1>
-                  <span className='welcome__subtitle'>Twee Vice synth stumptown</span>
+                  <h1 className='welcome__title'>İT Brains Academy`nə xoş gəlmisiniz.</h1>
+                  <span className='welcome__subtitle'>İT Brains Academy</span>
                   <img src={Line} alt="line decor" />
-                  <p className='welcome__text'>Twee Vice synth stumptown, distillery aesthetic slow-carb Intelligentsia bitters taxidermy <br />
-                  McSweeney's, flexitarian actually iPhone mlkshk brunch.</p>
+                  <p className='welcome__text'>Məzunlarımızın sayı 1il ərzində 800-dən çoxdur. <br />
+                  Hal-hazırda ttələbələrimiz isə 956-dır.</p>
                </div>
                <div className="row">
                   <div className="col-md-6 col-sm-6">
                      <div className="welcome__item">
                         <div className="welcome__icon"><FontAwesomeIcon icon={faGraduationCap} size="x"/></div>
-                        <h3>Graduated steps</h3>
+                        <h3>Bitirənlər</h3>
                         <div className="line"></div>
-                        <p>Photo booth Banksy YOLO mixtape post-ironic they sold out all.</p>
+                        <p>Məzunlarımız</p>
                      </div>
                   </div>
                   <div className="col-md-6 col-sm-6">
                      <div className="welcome__item">
                         <div className="welcome__icon"><FontAwesomeIcon icon={faEarthAsia} size="x"/></div>
-                        <h3>Global Interested</h3>
+                        <h3>Qlobal maraqlar</h3>
                         <div className="line"></div>
-                        <p>Photo booth Banksy YOLO mixtape post-ironic they sold out all.</p>
+                        <p>Sponsorlar</p>
                      </div>
                   </div>
                   <div className="col-md-6 col-sm-6">
                      <div className="welcome__item">
                         <div className="welcome__icon"><FontAwesomeIcon icon={faClock} size="x"/></div>
-                        <h3>Circular Clock</h3>
+                        <h3>Zamanlama</h3>
                         <div className="line"></div>
-                        <p>Photo booth Banksy YOLO mixtape post-ironic they sold out all.</p>
+                        <p>4-7 ay</p>
                      </div>
                   </div>
                   <div className="col-md-6 col-sm-6">
                      <div className="welcome__item">
                         <div className="welcome__icon"><FontAwesomeIcon icon={faBook} size="x"/></div>
-                        <h3>Open Book</h3>
+                        <h3>Kitablar</h3>
                         <div className="line"></div>
-                        <p>Photo booth Banksy YOLO mixtape post-ironic they sold out all.</p>
+                        <p>Kitabxana</p>
                      </div>
                   </div>
                </div>
@@ -56,31 +56,31 @@ const Welcome = () => {
             <div className="col-md-4">
                <div className="request__information">
                   <div className="widget__heading">
-                     <h3>Request information</h3>
+                     <h3>Tələb edilən məlumat</h3>
                   </div>
                   <div className="search__form">
-                     <input type="text" placeholder='Full Name' />
-                     <input type="text" placeholder='E-mail Address' />
+                     <input type="text" placeholder='AD,SOYAD' />
+                     <input type="text" placeholder='E-mail Ünvan' />
                      <div className="select">
                         <select name="" id="">
-                           <option value="-1">Campus of Interests</option>
-                           <option value="">Nearby</option>
-                           <option value="">High Classes</option>
-                           <option value="">Short Time</option>
-                           <option value="">Long Time</option>
+                           
+                           <option value="">Yaxınlıqdakılar</option>
+                           <option value="">Yüksək səviyyəli siniflər</option>
+                           <option value="">Qısa zaman</option>
+                           <option value="">Uzun vaxt</option>
                         </select>
                      </div>
                      <div className="select">
                         <select name="" id="">
-                           <option value="-1">Program of Interests</option>
-                           <option value="">Wroking Process</option>
-                           <option value="">Archivements</option>
-                           <option value="">Social</option>
-                           <option value="">Profits</option>
+                           <option value="-1">Proqramlar</option>
+                           <option value="">WProses</option>
+                           <option value="">Arxiv</option>
+                           <option value="">Sosial</option>
+                           <option value="">Mənfəət</option>
                         </select>
                      </div>
                      <div className="request__btn">
-                        <a href="">Submit Request</a>
+                        <a href="">Sorğu Göndər</a>
                      </div>
                   </div>
                </div>

@@ -16,10 +16,10 @@ const CoursesListItems = ({key,name,image,price,imgTeacher,text}) => {
                   <div className="base"></div>
                </div>
                <a href=""><h3>{text}</h3></a>
-               <p>Ugh chambray lumbersexual food truc artisan meditation sartorial post-ironic Wes Anderson.</p>
+               <p>Özünüzü İT Brains Academy`də inkişaf etdirin.İT sahəsində yeni biliklər əldə edə və biliklərinizi artıra bilərsiniz.</p>
                <div className="courses-list__btn">
                   <a href="">
-                     view more <FontAwesomeIcon icon={faArrowRight} size="x"/>
+                     daha çox <FontAwesomeIcon icon={faArrowRight} size="x"/>
                   </a>
                </div>
             </div>

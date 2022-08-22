@@ -27,31 +27,31 @@ const CoursesList = () => {
             <div className='col-md-4'>
             <div className="request__information">
                   <div className="widget__heading">
-                     <h3>Request information</h3>
+                     <h3>Tələb Edilən Məlumat </h3>
                   </div>
                   <div className="search__form">
-                     <input type="text" placeholder='Full Name' />
-                     <input type="text" placeholder='E-mail Address' />
+                     <input type="text" placeholder='Ad,Soyad' />
+                     <input type="text" placeholder='E-mail Ünvan' />
                      <div className="select">
                         <select name="" id="">
-                           <option value="-1">Campus of Interests</option>
-                           <option value="">Nearby</option>
-                           <option value="">High Classes</option>
-                           <option value="">Short Time</option>
-                           <option value="">Long Time</option>
+                           <option value="-1">Maraqlar</option>
+                           <option value="">Yaxınlıqdakılar</option>
+                           <option value="">Siniflər</option>
+                           <option value="">Qısa Zamanlar</option>
+                           <option value="">Uzun Zamanlar</option>
                         </select>
                      </div>
                      <div className="select">
                         <select name="" id="">
-                           <option value="-1">Program of Interests</option>
-                           <option value="">Wroking Process</option>
-                           <option value="">Archivements</option>
-                           <option value="">Social</option>
-                           <option value="">Profits</option>
+                           <option value="-1">Programlaşdırma</option>
+                           <option value="">İşləmə Prinsipi</option>
+                           <option value="">Nailiyyətlər</option>
+                           <option value="">Sosial</option>
+                           <option value="">Mənfəət</option>
                         </select>
                      </div>
                      <div className="request__btn">
-                        <a href="">Submit Request</a>
+                        <a href="">Sorğu Göndər</a>
                      </div>
                   </div>
               </div>

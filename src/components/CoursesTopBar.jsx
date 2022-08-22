@@ -6,24 +6,24 @@ const CoursesTopBar = () => {
   return (
    <div className='courses-grids__feautered feautered'>
    <div className='feautered__text'>
-     <span>showing 1-9 of 40 courses</span>
+     <span>40 kursdan yalnız 1-9-nu göstərir.</span>
    </div>
    <div className='feautered__right-side'>
      <div className='feautered__category'>
        <select>
-         <option>Category <FontAwesomeIcon icon={faSortDown} size="xl"/></option>
-         <option>Free</option>
-         <option>Timing</option>
-         <option>Mostly</option>
-         <option>Latest</option>
+         <option>Kateqoriya <FontAwesomeIcon icon={faSortDown} size="xl"/></option>
+         <option>Ödənişsiz</option>
+         <option>Zamanlama</option>
+         <option>Əsasən</option>
+         <option>Ən son</option>
        </select>
      </div>
      <div className='feautered__sort'>
        <select>
-         <option>Sorted by</option>
-         <option>Price</option>
-         <option>Useless</option>
-         <option>Important</option>
+         <option>Sıralama</option>
+         <option>Qiymət</option>
+         
+         <option>Mühüm Olanlar</option>
        </select>
      </div>
      <div className='feautered__icons'>

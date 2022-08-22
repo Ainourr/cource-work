@@ -1,62 +1,62 @@
 export const OurTeamItems = [
    {
       image: 'https://res.cloudinary.com/dp9ksc7yx/image/upload/v1657347506/Teachers/teach11_zd3zqp.jpg',
-      name: 'Samuel Delossantos',
-      career: 'Math Teacher'
+      name: 'Səməd Abiyev',
+      career: 'Riyaziyyat Müəllimi'
    },
    {
       image: 'https://res.cloudinary.com/dp9ksc7yx/image/upload/v1657347505/Teachers/teach7_aed6s8.jpg',
-      name: 'Nick Smith',
-      career: 'Physic Teacher'
+      name: 'Nemət Bayramov',
+      career: 'Office Proqramları'
    },
    {
       image: 'https://res.cloudinary.com/dp9ksc7yx/image/upload/v1657347505/Teachers/teach12_dyd30z.jpg',
-      name: 'John Rosado',
-      career: 'English Teacher'
+      name: 'Cavid Səmədov',
+      career: 'Android Developer'
    },
    {
       image: 'https://res.cloudinary.com/dp9ksc7yx/image/upload/v1657347505/Teachers/teach10_cvfbhb.jpg',
-      name: 'Melissa Hudson',
-      career: 'Math Teacher'
+      name: 'Məlahət Abdürrəhmanova',
+      career: 'İnformatika Müəllimi'
    },
    {
       image: 'https://res.cloudinary.com/dp9ksc7yx/image/upload/v1657347515/Teachers/teach1_v9facy.jpg',
-      name: 'Lana Kanowski',
-      career: 'English Teacher'
+      name: 'Lamiyə Musayeva',
+      career: 'Menttor'
    },
    {
       image: 'https://res.cloudinary.com/dp9ksc7yx/image/upload/v1657347515/Teachers/teach2_ehiccn.jpg',
-      name: 'Salma Huges',
-      career: 'Physic Teacher'
+      name: 'Səlimə Mikayılova',
+      career: 'Rəsm Müəllimi'
    },
    {
       image: 'https://res.cloudinary.com/dp9ksc7yx/image/upload/v1657347515/Teachers/teach5_ery09t.jpg',
-      name: 'Calvin Edison',
+      name: 'Babək Agayev',
       career: 'Software Developer'
    },
    {
       image: 'https://res.cloudinary.com/dp9ksc7yx/image/upload/v1657347516/Teachers/teach4_pdj5pi.jpg',
-      name: 'Gary Mollen',
-      career: 'English Teacher'
+      name: 'Gəray Məmmədli',
+      career: 'Müəllim köməkçisi'
    },
    {
       image: 'https://res.cloudinary.com/dp9ksc7yx/image/upload/v1657347505/Teachers/teach10_cvfbhb.jpg',
-      name: 'Johnny Lane',
+      name: 'Arif Xəlilov',
       career: 'Software Developer'
    },
    {
       image: 'https://res.cloudinary.com/dp9ksc7yx/image/upload/v1657347505/Teachers/teach9_opijd0.jpg',
-      name: 'Christopher Roland',
-      career: 'Physic Teacher'
+      name: 'Habil Abdullayev',
+      career: 'Marketing'
    },
    {
       image: 'https://res.cloudinary.com/dp9ksc7yx/image/upload/v1657347506/Teachers/teach8_vsbgxu.jpg',
-      name: 'Zibert Podolski',
+      name: 'Zaur Bağırov',
       career: 'Software Developer'
    },
    {
       image: 'https://res.cloudinary.com/dp9ksc7yx/image/upload/v1657347515/Teachers/teach3_jkvp41.jpg',
-      name: 'Sam Terron',
-      career: 'Physic Teacher'
+      name: 'Saməd Mamedov',
+      career: 'Mühasibat'
    },
  ];

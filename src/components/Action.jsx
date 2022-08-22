@@ -6,8 +6,8 @@ const Action = () => {
       <div className="action__container _container">
          <div className="row">
             <div className="action__body">
-               <p>Young people have been 'mis-sold' <em>path to success</em> , business leaders warn.</p>
-               <div className="action__btn"><a href="#">View Courses</a></div>
+               <p>Biznes liderləri xəbərdar edir ki, gənclər<em>uğura aparan yolda</em> 'səhv satılıb'.</p>
+               <div className="action__btn"><a href="#">Kurslara baxın</a></div>
                </div>
             
          </div>

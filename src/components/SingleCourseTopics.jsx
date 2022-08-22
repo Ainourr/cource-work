@@ -5,57 +5,57 @@ import { faCheck } from '@fortawesome/free-solid-svg-icons'
 const SingleCourseTopics = () => {
   return (
     <div className="single-course__topics">
-      <h4>Topics Included</h4>
+      <h4>Daxil Olanlar</h4>
       <div className="row">
          <div className="col-md-4">
             <ul>
                <li>
                <FontAwesomeIcon className='single-course__check' icon={faCheck} size="x"/>
-               Ennui pickled asymmetrical
+               Web Designer
                </li>
 
                <li>
                <FontAwesomeIcon className='single-course__check' icon={faCheck} size="x"/>
-               Kitsch keffiyeh crucifix ennui
+               Andriod Developer
                </li>
 
                <li>
                <FontAwesomeIcon className='single-course__check' icon={faCheck} size="x"/>
-               Kitsch keffiyeh crucifix ennui
+               Uİ-UX Designer
                </li>
 
                <li>
                <FontAwesomeIcon className='single-course__check' icon={faCheck} size="x"/>
-               Truck skateboard selvage bear
+              İnformatika Texnologiyaları
                </li>
             </ul>
          </div>
          <div className="col-md-4">
          <ul>
                <li><FontAwesomeIcon className='single-course__check' icon={faCheck} size="xs"/>
-               Fitsch keffiyeh crucifix ennui
+               Software Developer
                </li>
                
                <li><FontAwesomeIcon className='single-course__check' icon={faCheck} size="x"/>
-               Ennui pickled asymmetrical
+               Rəssamlıq
                </li>
 
                <li><FontAwesomeIcon className='single-course__check' icon={faCheck} size="x"/>
-               Quinoa dreamcatcher food
+               Planlaşdırma 
                </li>
 
                <li><FontAwesomeIcon className='single-course__check' icon={faCheck} size="x"/>
-               Truck skateboard selvage bear
+              Maliyyə
                </li>
             </ul>
          </div>
          <div className="col-md-4">
          <ul>
                <li><FontAwesomeIcon className='single-course__check' icon={faCheck} size="x"/>
-               Ennui pickled asymmetrical
+               İt Brains Academy
                </li>
                <li><FontAwesomeIcon className='single-course__check' icon={faCheck} size="x"/>
-               Truck skateboard selvage bear
+               Mühasibətlıq
                </li>
             </ul>
          </div>

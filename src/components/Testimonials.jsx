@@ -26,7 +26,7 @@ const Testimonials = () => {
          <div className="row">
             <div className="col-md-6">
                <div className="testimonials__students">
-                  <h2>What Our Students Say</h2>
+                  <h2>Tələbərimiz nə deyirlər</h2>
                   <img src={Line} alt="" />
                </div>
                <div className="col-md-12">
@@ -34,19 +34,19 @@ const Testimonials = () => {
                   <div className="testimonials__wrapper">
                      <div className="testimonials__item">
                      <FontAwesomeIcon icon={faQuoteRight} size="xl" className='testimonials__icon'/>
-                     <p>Stumptown polaroid skateboard single-origin coffee. Farm-to-table Vice authentic Truffaut put a bird on it, pug ethical tousled photo booth gluten-free cliche bicycle rights four dollar toast single-origin coffee taxidermy.</p>
+                     <p>İT Brains Academy</p>
                      <img src={Teacher1} alt="" />
-                     <h3>Caroll m. davis</h3>
+                     <h3>Cəlal Babayev</h3>
                      <span>Web Designer</span>
                      </div>
                   </div>
                   <div className="testimonials__wrapper">
                      <div className="testimonials__item">
                      <FontAwesomeIcon icon={faQuoteRight} size="xl" className='testimonials__icon'/>
-                     <p>Stumptown polaroid skateboard single-origin coffee. Farm-to-table Vice authentic Truffaut put a bird on it, pug ethical tousled photo booth gluten-free cliche bicycle rights four dollar toast single-origin coffee taxidermy.</p>
+                     <p>İT Brains Academy.</p>
                      <img src={Teacher2} alt="" />
-                     <h3>Caroll m. davis</h3>
-                     <span>Web Designer</span>
+                     <h3>Xəyalə Babayeva</h3>
+                     <span>Uİ_UX Designer</span>
                      </div>
                   </div>
                   </Slider>
@@ -64,7 +64,7 @@ const Testimonials = () => {
             </div>
             <div className="col-md-6">
                <div className="testimonials__news news">
-                  <h2>University News</h2>
+                  <h2>Kurs xəbərləri</h2>
                   <img src={Line} alt="" />
                </div>
                <div className="row">
@@ -74,24 +74,24 @@ const Testimonials = () => {
                            <img src={News1} alt="" />
                         </a>
                         <ul>
-                           <li>7 Oct 2021</li>
-                           <li>By Admin</li>
-                           <li>5 Comments</li>
+                           <li>7 Okt 2021</li>
+                           <li> Admin</li>
+                           <li>5 Şərh</li>
                         </ul>
-                        <a href="#"><h3>New University Finder: Compare</h3></a>
-                        <p>Ugh chambray lumbersexual food truc artisan meditation sartorial post-ironic.</p>
+                        <a href="#"><h3>Kurs haqqında</h3></a>
+                        <p>İT Brains Academy 2022</p>
                      </div>
                      <div className="news__item">
                         <a href="#">
                            <img src={News2} alt="" />
                         </a>
                         <ul>
-                           <li>15 Nov 2021</li>
-                           <li>By Jessy</li>
-                           <li>11 Comments</li>
+                           <li>15 Noy 2021</li>
+                           <li>CƏmalə Əliyeva</li>
+                           <li>11 Şərh</li>
                         </ul>
-                        <a href="#"><h3>How Do Students Use Rankings?</h3></a>
-                        <p>Ugh chambray lumbersexual food truc artisan meditation sartorial post-ironic.</p>
+                        <a href="#"><h3>Tələbələr</h3></a>
+                        <p>İT Brains Academy</p>
                      </div>
                   </div>
                </div>

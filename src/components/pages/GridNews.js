@@ -2,7 +2,7 @@ import React from 'react'
 
 const GridNews = () => {
   return (
-    <div>GridNews</div>
+    <div>Kurs şəbəkəsi</div>
   )
 }
 

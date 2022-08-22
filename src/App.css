@@ -4,11 +4,17 @@
   --primary-grey:#f2f5f6;
   --primary-dark-grey:#777;
   --primary-orange:#f5a425;
+  --primary-Dark-bblue:#2552f5;
+  --primary-Dark-green:#09ac50;
+  --primary-light-green:#bcf8c8e0;
   --primary-dark:#333;
   --primary-dark-font:#222;
   --primary-red:#a12c2f;
+  --primary-purple:#dea3f0;
+  --primary-pink:#f198d6;
   --primary-border-red:#8d2729;
   --primar-dark-blue:#1f272b;
+  --primar-dark-purple:#8b2aa9;
 }
 
 
@@ -32,8 +38,18 @@ li {
 }
 
 img {
+  /* width:70px;
+  height: 90px; */
    vertical-align: top;
 }
+.header__logo img{
+  width: 240px;
+  height: 150px;
+  margin-top: 33px;
+   margin-bottom: 0;
+   padding-bottom: 0;
+  }
+
 
 h1,
 h2,
@@ -62,7 +78,7 @@ h6 {
   border-top: 5px solid var(--primary-border-red);
 }
 
-.header__container {
+.__container {
   display: flex;
   justify-content: space-between;
   min-height: 146px;
@@ -201,7 +217,7 @@ h6 {
 
 .menu-items a:hover,
 .menu-items button:hover {
-  color: var(--primary-orange);
+  color: var(--primar-dark-purple);
 }
 
 .arrow::after {
@@ -300,7 +316,7 @@ h6 {
 
   .dropdown {
     display: block;
-    background-color: var(--primary-orange);
+    background-color: var(--primary-purple);
     width: 140px;
     top: 0px;
     left:0px;
@@ -755,7 +771,7 @@ select option {
 }
 
 .request__btn a {
-  background-color: #f5a425;
+  background-color: #d5f3fa;
   padding: 15px 30px;
   font-family: 'Montserrat', sans-serif;
   font-size: 11px;
@@ -1263,7 +1279,7 @@ select option {
 
 .page__action {
   padding: 30px 0px;
-  background: var(--primary-orange);
+  background: var(--primary-light-green);
 }
 
 .page__action p {
@@ -1307,6 +1323,18 @@ select option {
 .footer {
   padding-top: 90px;
 }
+
+.footer__header img{
+width: 125px;
+height: 90px;
+margin: -33px;
+}
+
+/* .logofooter__header{
+  padding-top: 0;
+  margin-top: 0;
+
+} */
 
 .footer__line {
   width: 44px;
@@ -1414,7 +1442,7 @@ select option {
 }
 
 .footer__email-btn a {
-  background-color: #f5a425;
+  background-color: #23d832;
   padding: 15px 30px;
   font-family: 'Montserrat', sans-serif;
   font-size: 11px;
@@ -3221,7 +3249,7 @@ select option {
 }
 
 .single-teacher__btn a {
-  background-color: #f5a425;
+  background-color: #8bec5a;
   padding: 15px 30px;
   font-family: 'Montserrat', sans-serif;
   font-size: 11px;

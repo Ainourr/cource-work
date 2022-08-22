@@ -20,7 +20,7 @@ const Presentation = () => {
             timing="ease"
             iteration="1"
             fillMode="none">
-            <p className='presentation__fline'> Are you ready to study? <br /> We have the <span>Solution</span></p>
+            <p className='presentation__fline'>Təhsil almağa hazırsınız? <br /> Bizdə <span>həll</span>var</p>
            
          </MovingText>
          <MovingText
@@ -31,8 +31,8 @@ const Presentation = () => {
             timing="ease-in"
             iteration="1"
             fillMode="none">
-            <p className="presentation__text">Nunc eget tempor neque Aenean non ex sed nibh euismod ornare. <br /> Nam congue nisi purus, sed luctus risus.</p> 
-            <div className='presentation__btn'><a href='#'>Buy Now</a></div>
+            <p className="presentation__text">Kompüter üzrə biliklərinizi bizimlə təkmilləşdirin. <br /> Kurslarımızı keçid edib baxa bilərsiniz.</p> 
+            <div className='presentation__btn'><a href='#'>İndi al</a></div>
             
             
          </MovingText>
@@ -49,7 +49,7 @@ const Presentation = () => {
             timing="ease"
             iteration="1"
             fillMode="none">
-            <p className='presentation__fline'> Next year more interesting! <br /> Check next <span>Feauters</span></p>
+            <p className='presentation__fline'>Gələn il daha maraqlı olacaq! <br /> növbəti <span>elementləri</span> yoxlayın. </p>
            
          </MovingText>
          <MovingText
@@ -60,8 +60,8 @@ const Presentation = () => {
             timing="ease-in"
             iteration="1"
             fillMode="none">
-            <p className="presentation__text">Nunc eget tempor neque Aenean non ex sed nibh euismod ornare. <br /> Nam congue nisi purus, sed luctus risus.</p> 
-            <div className='presentation__btn'><a href='#'>Buy Now</a></div>
+            <p className="presentation__text"> Kompüter üzrə biliklərinizi bizimlə təkmilləşdirin. <br /> Kurslarımızı keçid edib baxa bilərsiniz.</p> 
+            <div className='presentation__btn'><a href='#'>İndi alın.</a></div>
             
             
          </MovingText>
@@ -70,11 +70,11 @@ const Presentation = () => {
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
+    <span class="visually-hidden">Əvvəlki</span>
   </button>
   <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
+    <span class="visually-hidden">Növbəti</span>
   </button>
 </div>
       </div>
