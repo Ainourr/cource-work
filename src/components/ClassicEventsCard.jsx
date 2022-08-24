@@ -29,7 +29,7 @@ const ClassicEventsCard = ({key,image,adress,date,title}) => {
             </ul>
             <div className="classic-events__date"><p>18 <span>Dek</span></p></div>
             <a href="#"><h4>{title}</h4></a>
-            <p>Özünüzü İT Brains Academy`də inkişaf etdirin.</p>
+            <p>Özünüzü IT Brains Academy`də inkişaf etdirin.</p>
          </div>
       </div>
     </div>

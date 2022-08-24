@@ -44,10 +44,10 @@ const SingleEvent = () => {
               </ul>
             </div>
             <div className='single-events__down'>
-              <a href=''><h5>İT Brains Academy</h5></a>
-              <p>Özünüzü İT Brains Academy`də inkişaf etdirin. <br/>
-İT sahəsində yeni biliklər əldə edə və biliklərinizi artıra bilərsiniz.
-<br/>İT Brains Academy`də 40-dan çox kurslar mövcuddur.Rəssamlıq,İnformatika,İT,Android Developer,Web Developer,Software Engineer,Marketing,Economic,Finance,Accounting və başqaları.
+              <a href=''><h5>IT Brains Academy</h5></a>
+              <p>Özünüzü IT Brains Academy-də inkişaf etdirin. <br/>
+IT sahəsində yeni biliklər əldə edə və biliklərinizi artıra bilərsiniz.
+<br/>IT Brains Academy`də 40-dan çox kurslar mövcuddur.Rəssamlıq,İnformatika,IT,Android Developer,Web Developer,Software Engineer,Marketing,Economic,Finance,Accounting və başqaları.
 <br/>  İş saatlarımız həftə içi 6 gün saat 09:00 - 19:00-a kimidir. <br/> Labaratoriya otağımız və rəsm otağımız da mövcuddur,istədiyiniz zaman istədiyiniz qədər otaqlardan istifadə mümkündür. 
 </p>
               <div className='single-course__accordion'>
@@ -99,7 +99,7 @@ const SingleEvent = () => {
                 <li><span>Müddət:</span>08:00 - 09:00</li>
                 <li><span>Təşkilatçı:</span>Cavad İmamverdiyev</li>
                 <li><span>Telefon:</span>+994 (50) 766 20 00</li>
-                <li><span>Email:</span>İtbrainsacademy@gmail.com</li>
+                <li><span>Email:</span>Itbrainsacademy@gmail.com</li>
               </ul>
             </div>
           </div>

@@ -29,7 +29,7 @@ const AboutUsWelcome = () => {
             <div className="col-md-7">
                <div className="about-us__greeting greeting">
                   <div className="greeting__header">
-                     <h2>İt Brains Academy`ə xoş gəlmisiniz.</h2>
+                     <h2>IT Brains Academy-ə xoş gəlmisiniz.</h2>
                      <img src={Line} />
                      <span>Akademiyada olanlar:</span>
                   </div>

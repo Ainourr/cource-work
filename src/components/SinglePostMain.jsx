@@ -21,9 +21,9 @@ const SinglePostMain = () => {
             <li>Şərhlər: <em>2</em></li>
          </ul>
          <a href="#"><h4>İT Brains Academy</h4></a>
-         <p>İT Brains Academy`nda 40-dan çox kurs fəaliyyətt göstərir</p>
+         <p>IT Brains Academy-nda 40-dan çox kurs fəaliyyətt göstərir</p>
          <div className="main__embied">
-            <em>Həmçinin DİM`ə hazırlıq kursları da mövcuddur.</em>
+            <em>Həmçinin DİM-ə hazırlıq kursları da mövcuddur.</em>
          </div>
          <p>İnformatika və abituriyent hazırlıqları dərsləri də keçirilir.</p>
          <div className="main__tags-share">
@@ -58,7 +58,7 @@ const SinglePostMain = () => {
          <div className="comments__btn">
             <a href="#">Təkrar</a>
          </div>
-         <p>İT Brains Academy</p>
+         <p>IT Brains Academy</p>
       </div>
       <div className="comments__item _reply">
          <img src={Img3} alt="" />
@@ -67,7 +67,8 @@ const SinglePostMain = () => {
          <div className="comments__btn">
             <a href="#">Təkrar</a>
          </div>
-         <p>İT Brains Academy</p>
+         <p>
+            IT Brains Academy</p>
       </div>
       <div className="comments__item _reply">
          <img src={Img2} alt="" />
@@ -76,7 +77,7 @@ const SinglePostMain = () => {
          <div className="comments__btn">
             <a href="#">Təkrar</a>
          </div>
-         <p>İT Brains Academy</p>
+         <p>IT Brains Academy</p>
       </div>
       <div className="comments__item">
          <img src={Img4} alt="" />
@@ -85,7 +86,7 @@ const SinglePostMain = () => {
          <div className="comments__btn">
             <a href="#">Təkrar</a>
          </div>
-         <p>İT Brains Academy</p>
+         <p>IT Brains Academy</p>
       </div>
    </div>
    <div className="single-post__send send">

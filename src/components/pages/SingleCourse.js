@@ -24,7 +24,7 @@ const SingleCourse = () => {
                   <div className='single-course__item'>
                     <div className='single-course__heading'>
                       <h3>Necə Mükəmməl Natiq Olmaq Olar?</h3>
-                      <p>Əlbəttə İT Brains Academy kurslarına qoşularaq.</p>
+                      <p>Əlbəttə IT Brains Academy kurslarına qoşularaq.</p>
                       <img src={Img} />
                       <h4>Əli Heydərov</h4>
                       <div className='single-course__price'>

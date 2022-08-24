@@ -52,7 +52,7 @@ const SingleCourseTopics = () => {
          <div className="col-md-4">
          <ul>
                <li><FontAwesomeIcon className='single-course__check' icon={faCheck} size="x"/>
-               İt Brains Academy
+               IT Brains Academy
                </li>
                <li><FontAwesomeIcon className='single-course__check' icon={faCheck} size="x"/>
                Mühasibətlıq

@@ -60,7 +60,7 @@ const Navbar = () => {
                      </li>
                      <li className="info__item">
                         <span className="info__icon"><FontAwesomeIcon icon={faEnvelope} size="2xs"/></span>
-                        <span className="info__text">İtbrainsacademy@gmail.com</span>
+                        <span className="info__text">Itbrainsacademy@gmail.com</span>
                      </li>
                      <li className="info__item">
                         <span className="info__icon"><FontAwesomeIcon icon={faEarthAmericas} size="2xs"/></span>

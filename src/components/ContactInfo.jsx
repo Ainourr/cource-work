@@ -17,7 +17,7 @@ const ContactInfo = () => {
                   <div className="contact-info__item">
                      <FontAwesomeIcon className='contact__info__icon' icon={faEnvelope} size="x"/>
                      <h4>Email Adres</h4>
-                     <p>İtbrainsacademy@gmail.com</p>
+                     <p>Itbrainsacademy@gmail.com</p>
                   </div>
                   <div className="contact-info__item _border">
                      <FontAwesomeIcon className='contact__info__icon' icon={faPhone} size="x"/>

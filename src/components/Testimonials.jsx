@@ -34,7 +34,7 @@ const Testimonials = () => {
                   <div className="testimonials__wrapper">
                      <div className="testimonials__item">
                      <FontAwesomeIcon icon={faQuoteRight} size="xl" className='testimonials__icon'/>
-                     <p>İT Brains Academy</p>
+                     <p>IT Brains Academy</p>
                      <img src={Teacher1} alt="" />
                      <h3>Cəlal Babayev</h3>
                      <span>Web Designer</span>
@@ -43,7 +43,7 @@ const Testimonials = () => {
                   <div className="testimonials__wrapper">
                      <div className="testimonials__item">
                      <FontAwesomeIcon icon={faQuoteRight} size="xl" className='testimonials__icon'/>
-                     <p>İT Brains Academy.</p>
+                     <p>IT Brains Academy.</p>
                      <img src={Teacher2} alt="" />
                      <h3>Xəyalə Babayeva</h3>
                      <span>Uİ_UX Designer</span>
@@ -79,7 +79,7 @@ const Testimonials = () => {
                            <li>5 Şərh</li>
                         </ul>
                         <a href="#"><h3>Kurs haqqında</h3></a>
-                        <p>İT Brains Academy 2022</p>
+                        <p>IT Brains Academy 2022</p>
                      </div>
                      <div className="news__item">
                         <a href="#">
@@ -91,7 +91,7 @@ const Testimonials = () => {
                            <li>11 Şərh</li>
                         </ul>
                         <a href="#"><h3>Tələbələr</h3></a>
-                        <p>İT Brains Academy</p>
+                        <p>IT Brains Academy</p>
                      </div>
                   </div>
                </div>

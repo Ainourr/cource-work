@@ -11,7 +11,7 @@ const OurTeamCard = ({key,image,name,career}) => {
          <div className="our-team__down">
             <a href=""><h4>{name}</h4></a>
             <span>{career}</span>
-            <p>İT sahəsində yeni biliklər əldə edə və biliklərinizi artıra bilərsiniz.</p>
+            <p>IT sahəsində yeni biliklər əldə edə və biliklərinizi artıra bilərsiniz.</p>
             <ul>
                <li><FontAwesomeIcon icon={faFacebookF} size="x"/></li>
                <li><FontAwesomeIcon icon={faInstagram} size="x"/></li>

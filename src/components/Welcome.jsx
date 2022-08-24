@@ -12,8 +12,8 @@ const Welcome = () => {
          <div className="row">
             <div className="col-md-8">
                <div className="welcome__heading">
-                  <h1 className='welcome__title'>İT Brains Academy`nə xoş gəlmisiniz.</h1>
-                  <span className='welcome__subtitle'>İT Brains Academy</span>
+                  <h1 className='welcome__title'>IT Brains Academy-na xoş gəlmisiniz.</h1>
+                  <span className='welcome__subtitle'>IT Brains Academy</span>
                   <img src={Line} alt="line decor" />
                   <p className='welcome__text'>Məzunlarımızın sayı 1il ərzində 800-dən çoxdur. <br />
                   Hal-hazırda ttələbələrimiz isə 956-dır.</p>

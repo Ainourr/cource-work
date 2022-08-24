@@ -78,13 +78,13 @@ const ClassicNewsSideBar = () => {
             <ul>
                <li>
                   <FontAwesomeIcon className='tweets__icon' icon={faTwitter} size="x"/>
-                  <p>İT sahəsində yeni biliklər əldə edə və biliklərinizi artıra bilərsiniz.</p>
+                  <p>IT sahəsində yeni biliklər əldə edə və biliklərinizi artıra bilərsiniz.</p>
                   <a href="#">https://olark.recruiterbox.com/jobs/fk0h</a>
                   <span>21 dəq. əvvəl </span>
                </li>
                <li>
                   <FontAwesomeIcon className='tweets__icon' icon={faTwitter} size="x"/>
-                  <p>İT sahəsində yeni biliklər əldə edə və biliklərinizi artıra bilərsiniz.</p>
+                  <p>IT sahəsində yeni biliklər əldə edə və biliklərinizi artıra bilərsiniz.</p>
                   <a href="#">https://olark.recruiterbox.com/jobs/fk0h</a>
                   <span>21 dəq. əvvəl</span>
                </li>

@@ -47,7 +47,7 @@ const Footer = () => {
                         </li>
                         <li>
                            <FontAwesomeIcon icon={faPhone} className="footer__icon" size="x"/>
-                           +994 (77) 721 05 01</li>
+                           +994 (50) 766 20 00</li>
                         <li>
                          <FontAwesomeIcon icon={faEnvelope} className="footer__icon" size="x"/>
                            aynurmahmudova05@gmail.com
@@ -73,7 +73,7 @@ const Footer = () => {
                   <div className="row">
                      <div className="col-md-6">
                         <div className="copyright__text">
-                           <p>@ Copyright 2022 İT Brains Academy. Müəllif haqları qorunur.</p>
+                           <p>@ Copyright 2022 IT Brains Academy. Müəllif haqları qorunur.</p>
                         </div>
                      </div>
                      <div className="col-md-6">

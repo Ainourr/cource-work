@@ -15,7 +15,7 @@ const Teachers = () => {
          <div className="teachers__header">
             <h3>Müəllimlərimiz</h3>
             <img src={Line} alt="" />
-            <p>İT Brains Academy</p>
+            <p>IT Brains Academy</p>
          </div>
          </div>
          <div className="row">
@@ -39,7 +39,7 @@ const Teachers = () => {
                         <h3>Nazim Cəfərov</h3>
                      </a>
                      <span>Fizika Müəllimi</span>
-                     <p>İT Brains Academy</p>
+                     <p>IT Brains Academy</p>
                   </div>
                </div>
             </div>
@@ -60,10 +60,10 @@ const Teachers = () => {
                   </div>
                   <div className="teachers__down">
                      <a href="">
-                        <h3>Nazim Cəfərov</h3>
+                        <h3>Babək Nağıyev</h3>
                      </a>
-                     <span>Fizika Müəllimi</span>
-                     <p>İT Brains Academy</p>
+                     <span>İnformatika Müəllimi</span>
+                     <p>IT Brains Academy</p>
                   </div>
                </div>
             </div>
@@ -84,10 +84,10 @@ const Teachers = () => {
                   </div>
                   <div className="teachers__down">
                      <a href="">
-                        <h3>Nazim Cəfərov</h3>
+                        <h3>Nazlı Cəfərova</h3>
                      </a>
-                     <span>Fizika </span>
-                     <p>İT Brains Academy</p>
+                     <span>Mühasibatlıq</span>
+                     <p>IT Brains Academy</p>
                   </div>
                </div>
             </div>
@@ -108,10 +108,10 @@ const Teachers = () => {
                   </div>
                   <div className="teachers__down">
                      <a href="">
-                        <h3>Nazim Cəfərov</h3>
+                        <h3>Əliyar Babayev</h3>
                      </a>
-                     <span>Fizika</span>
-                     <p>İT Brains Academy</p>
+                     <span>Android Developer</span>
+                     <p>IT Brains Academy</p>
                   </div>
                </div>
             </div>

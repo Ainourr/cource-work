@@ -5,12 +5,12 @@
   --primary-dark-grey:#777;
   --primary-orange:#f5a425;
   --primary-Dark-bblue:#2552f5;
-  --primary-Dark-green:#09ac50;
-  --primary-light-green:#bcf8c8e0;
+  --primary-Dark-orange:#f39c12;
+  --primary-light-orange:#fdcb6e;
   --primary-dark:#333;
   --primary-dark-font:#222;
   --primary-red:#a12c2f;
-  --primary-purple:#dea3f0;
+  --primary-purple:#eec5fb;
   --primary-pink:#f198d6;
   --primary-border-red:#8d2729;
   --primar-dark-blue:#1f272b;
@@ -45,11 +45,15 @@ img {
 .header__logo img{
   width: 240px;
   height: 150px;
-  margin-top: 33px;
-   margin-bottom: 0;
-   padding-bottom: 0;
+  transform: translateY(80px);
+   margin: 0;
+   padding: 0;
   }
-
+  .menu__info .info,
+  .header__logo img{
+    margin-top: 0;
+    padding-top: 0;
+  }
 
 h1,
 h2,
@@ -217,7 +221,7 @@ h6 {
 
 .menu-items a:hover,
 .menu-items button:hover {
-  color: var(--primar-dark-purple);
+  color: var(--primary-purple);
 }
 
 .arrow::after {
@@ -717,7 +721,7 @@ h6 {
   border: 1px solid #ac4f51;
   font-family: 'Roboto', sans-serif;
   font-size: 12px;
-  color: #ffffff;
+  color: #fff;
   outline: none;
   margin-bottom: 20px;
 }
@@ -771,7 +775,7 @@ select option {
 }
 
 .request__btn a {
-  background-color: #d5f3fa;
+  background-color: #fae7d5;
   padding: 15px 30px;
   font-family: 'Montserrat', sans-serif;
   font-size: 11px;
@@ -1009,7 +1013,7 @@ select option {
   height: 33px;
   line-height: 33px;
   text-align: center;
-  background-color: #f2f5f6;
+  background-color: #f9bf89;
   cursor: pointer;
 }
 
@@ -1031,7 +1035,7 @@ select option {
   height: 33px;
   line-height: 33px;
   text-align: center;
-  background-color: #f2f5f6;
+  background-color: #fcc18d;
   cursor: pointer;
 }
 
@@ -1279,7 +1283,7 @@ select option {
 
 .page__action {
   padding: 30px 0px;
-  background: var(--primary-light-green);
+  background: var(--primary-light-orange);
 }
 
 .page__action p {
@@ -1442,7 +1446,7 @@ margin: -33px;
 }
 
 .footer__email-btn a {
-  background-color: #23d832;
+  background-color: #ef701b;
   padding: 15px 30px;
   font-family: 'Montserrat', sans-serif;
   font-size: 11px;
@@ -1992,7 +1996,7 @@ margin: -33px;
   display: inline-block;
   line-height: 40px;
   color: #777777;
-  background-color: #f2f5f6;
+  background-color: #ffc261;
   
 }
 
@@ -2018,7 +2022,7 @@ margin: -33px;
   display: inline-block;
   line-height: 40px;
   color: #777777;
-  background-color: #f2f5f6;
+  background-color: #f5c07f;
   margin-right: 5px;
   cursor: pointer;
 }

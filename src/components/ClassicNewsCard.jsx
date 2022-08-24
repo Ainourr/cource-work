@@ -11,7 +11,7 @@ const ClassicNewsCard = ({key,image,by,comments,title,posted}) => {
                <li>Şərhlər: <em>{comments}</em></li>
             </ul>
             <a href=""><h4>{title}</h4></a>
-            <p>İT sahəsində yeni biliklər əldə edə və biliklərinizi artıra bilərsiniz.</p>
+            <p>IT sahəsində yeni biliklər əldə edə və biliklərinizi artıra bilərsiniz.</p>
             <div className="classic-news__buttons">
                <div className="classic-news__btnsub">
                   <a href="">Oxumağa davam et</a>

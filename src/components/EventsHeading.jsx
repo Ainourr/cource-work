@@ -16,7 +16,7 @@ const EventsHeading = () => {
        <div className='row'>
          <div className='col-md-12'>
            <h1 className='classic-events__title'>Məzunlarımız</h1>
-           <span className='classic-events__text'>İT Brains Academy məzunlarını bu səhifədən tanıya bilərsiniz.</span>
+           <span className='classic-events__text'>IT Brains Academy məzunlarını bu səhifədən tanıya bilərsiniz.</span>
              <ul className='classic-events__col'>
                <li className='classic-events__item'><a className='classic-events__link _orange' href='#'>Əsas</a></li>
                <li className='classic-events__item'><FontAwesomeIcon className='classic-events__icon' icon={faAngleRight} size="xs"/></li>

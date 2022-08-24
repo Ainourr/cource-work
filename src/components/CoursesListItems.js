@@ -16,7 +16,7 @@ const CoursesListItems = ({key,name,image,price,imgTeacher,text}) => {
                   <div className="base"></div>
                </div>
                <a href=""><h3>{text}</h3></a>
-               <p>Özünüzü İT Brains Academy`də inkişaf etdirin.İT sahəsində yeni biliklər əldə edə və biliklərinizi artıra bilərsiniz.</p>
+               <p>Özünüzü IT Brains Academy-də inkişaf etdirin.İT sahəsində yeni biliklər əldə edə və biliklərinizi artıra bilərsiniz.</p>
                <div className="courses-list__btn">
                   <a href="">
                      daha çox <FontAwesomeIcon icon={faArrowRight} size="x"/>

@@ -24,7 +24,7 @@ const SingleTeacherDesc = () => {
          <div className="single-teacher__text">
             
             <h4>MC office teacher</h4>
-            <p>İT Brains Academy</p>
+            <p>IT Brains Academy</p>
             <ul>
                <li><FontAwesomeIcon className='single-teacher__contact' icon={faPhone} size="x"/>910-213-7890</li>
                <li><FontAwesomeIcon className='single-teacher__contact' icon={faEnvelope} size="x"/>Aylam@gmail.com</li>

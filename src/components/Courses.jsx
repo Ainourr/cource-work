@@ -57,7 +57,7 @@ const Courses = () => {
             <div className="courses__header">
                <h2 className="courses__title">Tanınmış kurslar</h2>
                <img src={Line} alt="line decor" />
-               <p className="courses__text">İT Brains Academy</p>
+               <p className="courses__text">IT Brains Academy</p>
             </div>
          </div>
          <div className="row">

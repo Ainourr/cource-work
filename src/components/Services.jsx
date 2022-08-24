@@ -12,7 +12,7 @@ const Services = () => {
                <div className="services__header">
                   <h2>Kitabları buradan oxuya</h2>
                   <img src={Line} alt="" />
-                  <p>İT sahəsində yeni biliklər əldə edə və biliklərinizi artıra bilərsiniz.</p>
+                  <p>IT sahəsində yeni biliklər əldə edə və biliklərinizi artıra bilərsiniz.</p>
                </div>
             </div>
          </div>
@@ -32,7 +32,7 @@ const Services = () => {
             <div className="col-md-3 col-sm-6">
                <div className="services__item">
                <FontAwesomeIcon icon={faCompass} size="xl"/>
-               <h4>Kompas <br /> imtahanının hazırlanması</h4>
+               <h4>İmtahanların <br />  hazırlanması</h4>
                </div>
             </div>
             <div className="col-md-3 col-sm-6">
